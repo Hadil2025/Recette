@@ -1,0 +1,32 @@
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:xx-large;
+    color: rgb(220, 98, 49);
+    text-align: center;
+padding: 30px;
+}
+h2 { font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:larger;
+    color: rgb(96, 95, 95);
+}
+.imgvid{
+text-align: center;
+}
+.astuce{
+border-left: 3px solid rgba(233, 111, 4, 0.929);
+.as {padding: 20px;;}
+}
+#bouton {
+background-color: rgb(208, 89, 29);
+text-align: center;
+color: aliceblue;
+position: absolute;
+left: 5%;
+font-size: x-large;
+padding: 10px 20px;
+}
+
+.Ligne {
+    border-color: rgba(210, 93, 5, 0.919);
+
+}
